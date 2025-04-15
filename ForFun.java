@@ -6,7 +6,7 @@ package Assignment_1;
 
 /**
  *
- * @author Ashley
+ * @author khutso-pollen-masekwameng
  */
 import Assignment_1.Login;
 import java.util.Scanner;

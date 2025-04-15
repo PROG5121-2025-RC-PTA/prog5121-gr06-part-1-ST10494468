@@ -6,7 +6,7 @@ package Assignment_1;
 
 /**
  *
- * @author Ashley
+ * @author Ashley Rabotapi
  */
 public class Login{
 	
